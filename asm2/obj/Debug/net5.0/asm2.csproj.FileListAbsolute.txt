@@ -1,0 +1,16 @@
+C:\Users\tltkh\RiderProjects\asm2\asm2\bin\Debug\net5.0\asm2.exe
+C:\Users\tltkh\RiderProjects\asm2\asm2\bin\Debug\net5.0\asm2.deps.json
+C:\Users\tltkh\RiderProjects\asm2\asm2\bin\Debug\net5.0\asm2.runtimeconfig.json
+C:\Users\tltkh\RiderProjects\asm2\asm2\bin\Debug\net5.0\asm2.runtimeconfig.dev.json
+C:\Users\tltkh\RiderProjects\asm2\asm2\bin\Debug\net5.0\asm2.dll
+C:\Users\tltkh\RiderProjects\asm2\asm2\bin\Debug\net5.0\ref\asm2.dll
+C:\Users\tltkh\RiderProjects\asm2\asm2\bin\Debug\net5.0\asm2.pdb
+C:\Users\tltkh\RiderProjects\asm2\asm2\obj\Debug\net5.0\asm2.csproj.AssemblyReference.cache
+C:\Users\tltkh\RiderProjects\asm2\asm2\obj\Debug\net5.0\asm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tltkh\RiderProjects\asm2\asm2\obj\Debug\net5.0\asm2.AssemblyInfoInputs.cache
+C:\Users\tltkh\RiderProjects\asm2\asm2\obj\Debug\net5.0\asm2.AssemblyInfo.cs
+C:\Users\tltkh\RiderProjects\asm2\asm2\obj\Debug\net5.0\asm2.csproj.CoreCompileInputs.cache
+C:\Users\tltkh\RiderProjects\asm2\asm2\obj\Debug\net5.0\asm2.dll
+C:\Users\tltkh\RiderProjects\asm2\asm2\obj\Debug\net5.0\ref\asm2.dll
+C:\Users\tltkh\RiderProjects\asm2\asm2\obj\Debug\net5.0\asm2.pdb
+C:\Users\tltkh\RiderProjects\asm2\asm2\obj\Debug\net5.0\asm2.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6L6jdXf3VPUoDF8kYfbGWryjCflpJutf9xdqV8t4Us5e6xs/6w9i7XsT/wp+vDOJN7mULh/snQFVyHBm3u+Vvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tltkh\\RiderProjects\\asm2\\asm2\\asm2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tltkh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
